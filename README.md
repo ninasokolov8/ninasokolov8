@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nina Sokolov</h1>
-<h3 align="center">A passionate unique creature that LOVE programming</h3>
+<h3 align="center">A passionate unique creature that LOVES programming</h3>
 
 <!-- - 👨‍💻 All of my projects are available at [https://lucidtrail.com/](https://lucidtrail.com/) -->
 
