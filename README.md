@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sokolov8nina@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sokolovnina/](https://www.linkedin.com/in/sokolovnina/)
+- 📄 Learn about my experiences [https://www.linkedin.com/in/sokolovnina/](https://www.linkedin.com/in/sokolovnina/)
 
 - ⚡ Fun fact **I'm autistic ADHD person**
 
